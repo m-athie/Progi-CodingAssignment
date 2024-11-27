@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CarPriceAPI/bin/Debug/net8.0
+/CarPriceAPI/.vs/CarPriceAPI
+/CarPriceAPI/obj
+/CarPriceAPI.Tests/bin/Debug/net8.0
+/CarPriceAPI.Tests/obj
