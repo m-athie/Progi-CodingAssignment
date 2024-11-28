@@ -6,7 +6,6 @@ This project consists of two main components:
 - **Front-End**: A Vue 3 application built with Vite for fast development and building.
 - **Back-End**: A .NET 8 API that provides endpoints to calculate car prices and apply various fees.
 - **Unit Tests**: A set of unit tests for the back-end API.
-```
 
 ## Prerequisites
 
