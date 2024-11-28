@@ -23,7 +23,7 @@ This project consists of two main components:
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd car-price-api/backend
+   cd CarPriceAPI
    ```
 
 2. Restore the .NET dependencies:
@@ -39,7 +39,7 @@ This project consists of two main components:
 
 1. Navigate to the front-end directory:
    ```bash
-   cd car-price-api/frontend
+   cd CarPriceApp
    ```
 2. Install front-end dependencies:
    ```bash
